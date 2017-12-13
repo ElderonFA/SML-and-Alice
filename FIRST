@@ -1,0 +1,24 @@
+val a="5";
+val b="5";
+val c="plus";
+  
+print "Hello words!\nOh, no words...\nOf corse! Hello numeral!";
+print("\nYour first number: "^a);
+print("\nYour second number:"^b);
+print("\nYour second operation:"^c);
+
+(*val d=0;
+fun add1(int x)
+{
+  return x + 1;
+}
+add1(d);
+
+fun pr(s)=print("\n"^s);
+pr("print");*)
+
+(*print a;
+print b;
+if c then print "EEE\n"
+else print "";*)
+
